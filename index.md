@@ -3,7 +3,7 @@
    #input {position: absolute;top: 0;left: 0;opacity: 0;z-index: -10;}
 </style>
 <div class="wrapper">
-   <p id="text">https://webpage-cn.eu.org</p>
+   <p id="text">https://webpage-cn.eu.org/group</p>
    <textarea id="input"></textarea>
    <button onclick="copyText()">copy</button>
 </div>
