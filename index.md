@@ -13,6 +13,6 @@
       var input = document.getElementById("input");
       input.value = text;
       input.select();
-      document.execCommand("copy");
+      document.execCommand("复制");
     }
   </script>
